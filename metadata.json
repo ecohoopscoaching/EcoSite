@@ -1,0 +1,7 @@
+{
+  "name": "EcoHoops Elite Platform",
+  "description": "The definitive anti-elite basketball program landing page and AI coaching companion, blending street wisdom, science, and soul.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
